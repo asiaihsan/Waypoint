@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spot_types">
+        <item>Beach</item>
+        <item>City</item>
+        <item>Nature</item>
+        <item>Cafe</item>
+        <item>Culture</item>
+        <item>Forest</item>
+    </string-array>
+    <string-array name="moods">
+        <item>Peaceful</item>
+        <item>Exciting</item>
+        <item>Nostalgic</item>
+        <item>Dreamy</item>
+        <item>Chaotic</item>
+    </string-array>
+</resources>
