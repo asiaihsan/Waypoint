@@ -51,11 +51,11 @@ public class SpotsFragment extends Fragment {
 
             lvSpots.setOnItemClickListener((parent, view, position, id) -> {
                 Spot spot = spots.get(position);
-                Intent intent = new Intent(getContext(), SpotDetailActivity.class);
-                intent.putExtra("spotName", spot.getSpotName());
+                Intent intent = new Intent(getContext(), PlaceDetailActivity.class);
+                intent.putExtra("placeName", spot.getSpotName());
                 intent.putExtra("city", spot.getCity());
                 intent.putExtra("note", spot.getNote());
-                intent.putExtra("spotType", spot.getSpotType());
+                intent.putExtra("placeType", spot.getSpotType());
                 intent.putExtra("mood", spot.getMood());
                 intent.putExtra("dateAdded", spot.getDateAdded());
                 startActivity(intent);
