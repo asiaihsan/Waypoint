@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy">#1A1A2E</color>
+    <color name="amber">#E8A838</color>
+    <color name="mood_peaceful">#4DB6AC</color>
+    <color name="mood_exciting">#EF5350</color>
+    <color name="mood_nostalgic">#A1887F</color>
+    <color name="mood_dreamy">#CE93D8</color>
+    <color name="mood_chaotic">#FFF176</color>
+    <color name="white_text">#F5F5F0</color>
+    <color name="muted_text">#9E9E9E</color>
+</resources>

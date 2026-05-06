@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Waypoint</string>
+    <string name="tagline">Save your favourite spots.</string>
+    <string name="login_button">Start Exploring</string>
+    <string name="save_spot">Save Spot</string>
+    <string name="my_world">My Spots</string>
+    <string name="add_spot">Add Spot</string>
+    <string name="empty_state">No spots saved yet. Start exploring.</string>
+    <string name="logout">Logout</string>
+    <string name="explorer_level_prefix">Explorer Level</string>
+</resources>
